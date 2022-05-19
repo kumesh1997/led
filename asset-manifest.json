@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/led/static/css/main.ef39f096.css",
+    "main.js": "/led/static/js/main.7ce1fcf6.js",
+    "static/js/787.b7f2204f.chunk.js": "/led/static/js/787.b7f2204f.chunk.js",
+    "index.html": "/led/index.html",
+    "main.ef39f096.css.map": "/led/static/css/main.ef39f096.css.map",
+    "main.7ce1fcf6.js.map": "/led/static/js/main.7ce1fcf6.js.map",
+    "787.b7f2204f.chunk.js.map": "/led/static/js/787.b7f2204f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef39f096.css",
+    "static/js/main.7ce1fcf6.js"
+  ]
+}
